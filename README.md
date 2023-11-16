@@ -1,3 +1,4 @@
-# meta-mediatek-filogic
+# meta-rdkb-mtkfl
 
-yocto meta layer for mediatek filogic soc family
+yocto meta layer for mtk soc family
+
